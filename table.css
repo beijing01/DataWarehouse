@@ -8,10 +8,10 @@ table {
   border-collapse:collapse;
 } 
 th { 
-  background-color: #009FCC;
+  background-color: #4CAF50;
   padding:10px;
   border:1px solid #000;
-  color:#fff;
+  color: white;
 } 
 td { 
   border:1px solid #000;
